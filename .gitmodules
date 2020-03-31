@@ -1,0 +1,6 @@
+[submodule "GuessNumberServer"]
+	path = GuessNumberServer
+	url = https://github.com/CSaratakij/GuessNumberServer
+[submodule "GuessNumberClient"]
+	path = GuessNumberClient
+	url = https://github.com/CSaratakij/GuessNumberClient
