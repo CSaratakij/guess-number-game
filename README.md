@@ -11,7 +11,12 @@
 # Dependencies
 
 -   nodejs
+-   socket.io
+-   express
+-   mongodb
 -   unity5
+-   libx11
+-   libxdo
 
 # Note
 
